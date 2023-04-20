@@ -13,9 +13,8 @@ body {
     margin-right: auto;
 }
 
-#header__logo {
-    align-items: center;
-    padding-left: 120px;
+header {
+    text-align: center;
 }
 
 .nav__navigateList {
