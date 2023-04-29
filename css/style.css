@@ -16,3 +16,16 @@ body {
 header {
     text-align: center;
 }
+
+#header__logo {
+    align-items: center;
+    padding-left: 120px;
+}
+
+.nav__navigateList {
+    list-style: none;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 10px;
+    margin: 10px 0;
+}
